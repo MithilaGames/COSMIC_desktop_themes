@@ -5,5 +5,4 @@ List of themes for rust based COSMIC desktop for linux.
   
   Godot - https://github.com/MithilaGames/godot_theme_cosmic_desktop
 
-  test1
-  test2
+
