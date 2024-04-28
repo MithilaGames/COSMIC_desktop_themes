@@ -1,5 +1,6 @@
 # COSMIC_desktop_themes
 List of themes for rust based COSMIC desktop for linux.
 
-  Cyberpunk_2077 - https://github.com/MithilaGames/cyberpunk_2077_theme_cosmic_desktop
+  Cyberpunk_2077 - https://github.com/MithilaGames/cyberpunk_2077_theme_cosmic_desktop 
+  
   Godot - https://github.com/MithilaGames/godot_theme_cosmic_desktop
