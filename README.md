@@ -1,5 +1,6 @@
 # COSMIC_desktop_themes
 List of themes for rust based COSMIC desktop for linux.
+
   cosmic_cyberpunk_setting_theme (recreated) is inspired by cyberpunk seting UI. 
 
   
